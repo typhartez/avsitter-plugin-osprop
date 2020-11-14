@@ -1,6 +1,6 @@
 # Overview
 
-(AVsitter2)[https://github.com/AVsitter/AVsitter] has been ported to OpenSim, but there are still issues. In particular the *prop* plugin does not keep rotation on rezzed objects that are aimed to be attached, as depicted in this (AVsitter issue)[https://github.com/AVsitter/AVsitter/issues/74]. AVsitter developers stated (in purpose) that's it's not related to AVsitter, but an OpenSim bug, and the issue has been (reported to OpenSim mantis)[http://opensimulator.org/mantis/view.php?id=8364]. Unfortunately, this bug is opened since 2018 and still in the *new* state.
+[AVsitter2](https://github.com/AVsitter/AVsitter) has been ported to OpenSim, but there are still issues. In particular the *prop* plugin does not keep rotation on rezzed objects that are aimed to be attached, as depicted in this [AVsitter issue](https://github.com/AVsitter/AVsitter/issues/74). AVsitter developers stated (in purpose) that's it's not related to AVsitter, but an OpenSim bug, and the issue has been [reported to OpenSim mantis](http://opensimulator.org/mantis/view.php?id=8364). Unfortunately, this bug is opened since 2018 and still in the *new* state.
 
 **So how can users do?** Well, doing a fix on AVsitter to compensate OpenSim bug. That's what this project is about.
 
